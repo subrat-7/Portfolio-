@@ -18,10 +18,10 @@
 * Targeted ad campaigns to different user groups based on their engagement in the application.
   
 # Operation Analytics and Investigating Metric Spike
-* Job Data Analysis
+* Job Data Analysis:
 In case study 1, we were able to analyze job reviewed per hour for each day in the month of November, 2020. Also some other insights like removal of duplicate rows, percentage share of each language in the past 30 days, and 7-day rolling average throughput.
 
-* Investigating Metric Spike
+* Investigating Metric Spike:
 In Case Study 2, we were able to understand how different users engage with email events in the application. Were able to analyse growth of users over time for a product, were able to analyse and measure activeness of a user on a weekly basis per device.
 
 # Hiring Process Analytics
